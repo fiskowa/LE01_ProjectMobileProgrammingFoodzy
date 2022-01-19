@@ -1,5 +1,6 @@
 # LE01_ProjectMobileProgrammingFoodzy
-Anggota Kelompok 10: 
+Anggota Kelompok 10:
+
 2301864631 Fiskowa Anita,  
 2301865956 Mellinia,  
 2301867910 Cathleen, 
