@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/group1">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_category"
+            android:icon="@drawable/ic_category"
+            android:title="Category" />
+
+    </group>
+
+        <item android:title="Profiler">
+            <menu>
+                <group android:checkableBehavior="single"
+                    android:id="@+id/group2">
+                <item
+                    android:id="@+id/nav_login"
+                    android:icon="@drawable/ic_login"
+                    android:title="HUAWEI ID" />
+                    <item
+                        android:id="@+id/nav_aboutUs"
+                        android:icon="@drawable/ic_baseline_android_"
+                        android:title="About Us" />
+                </group>
+            </menu>
+        </item>
+
+
+</menu>
